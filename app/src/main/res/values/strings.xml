@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Wisata Semarang</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <array name="nama_tempat">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>g</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Air Terjun Sekar Langit</item>
+        <item>Curug Silawe</item>
+        <item>Kali Elo</item>
+    </array>
+
+    <array name="latitude_tempat">
+        <item>-</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>-7.458329</item>
+        <item>-7.467410</item>
+    </array>
+    <array name="longitude_tempat">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>110.072653</item>
+        <item>110.232586</item>
+    </array>
+</resources>
